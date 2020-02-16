@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header,
+footer {
+    font-family: 'ABeeZee', sans-serif;
+    width: 70%;
+    height: 100px;
+    float: right;
+    text-align: center;
+    background-color: #3c4245;
+    color: #719192;
+}
+
+main {
+    font-family: 'Cormorant Garamond', serif;
+    background-color: #719192;
+    color: #3c4245;
+    height: 90vh;
+}
+
+.stanza {
+    height: 100px;
+    padding: 10px;
+}
+
+.stanza1 {
+    float: left;
+}
+
+.stanza2 {
+    float: right;
+}
